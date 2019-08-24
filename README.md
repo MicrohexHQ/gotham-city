@@ -1,9 +1,9 @@
 Gotham City
-=====================================
+===========
 Gotham city is a fully functional client/server application of a minimalist decentralized HD wallet using 2 party ECDSA.
 
 Supported Blockchain(s) / Coin(s)
--------
+---------------------------------
 ### Server
 Gotham **server** is coin / blockchain agnostic but Elliptic Curve specific.
 
